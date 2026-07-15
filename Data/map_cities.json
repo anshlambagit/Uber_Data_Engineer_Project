@@ -4,59 +4,157 @@
     "city": "New York",
     "state": "NY",
     "region": "Northeast"
+    Comparing changes
+Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
+ 
+...
+ 
+ Able to merge. These branches can be automatically merged.
+Discuss and review the changes in this comparison with others. Learn about pull requests
+ 1 commit
+ 1 file changed
+ 1 contributor
+Commits on Jul 15, 2026
+map_cities.json
+
+@Mithraharish15
+Mithraharish15 authored 1 minute ago
+ Showing  with 10 additions and 0 deletions.
+  10 changes: 10 additions & 0 deletions10  
+Data/map_cities.json
+Original file line number	Diff line number	Diff line change
+@@ -4,59 +4,69 @@
+    "city": "New York",
+    "state": "NY",
+    "region": "Northeast"
+     "updateat:":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 2,
     "city": "Los Angelas",
     "state": "CA",
     "region": "West"
+     "updateat:":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 3,
     "city": "Chicago",
     "state": "IL",
     "region": "Midwest"
+     "updateat:":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 4,
     "city": "Houston",
     "state": "TX",
     "region": "South"
+     "updateat:":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 5,
     "city": "Phoenix",
     "state": "AZ",
     "region": "Southwest"
+     "updateat:":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 6,
     "city": "Philadelphia",
     "state": "PA",
     "region": "Northeast"
+     "updateat:":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 7,
     "city": "San Antonio",
     "state": "TX",
     "region": "South"
+     "updateat":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 8,
     "city": "San Diego",
     "state": "CA",
     "region": "West"
+    "updateat":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 9,
     "city": "Dallas",
     "state": "TX",
     "region": "South"
+    "updateat":"2026-07-15T20:33:25.429Z"
   },
   {
     "city_id": 10,
     "city": "San Jose",
     "state": "CA",
     "region": "West"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  }
+]
+  },
+  {
+    "city_id": 2,
+    "city": "Los Angelas",
+    "state": "CA",
+    "region": "West"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 3,
+    "city": "Chicago",
+    "state": "IL",
+    "region": "Midwest"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 4,
+    "city": "Houston",
+    "state": "TX",
+    "region": "South"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 5,
+    "city": "Phoenix",
+    "state": "AZ",
+    "region": "Southwest"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 6,
+    "city": "Philadelphia",
+    "state": "PA",
+    "region": "Northeast"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 7,
+    "city": "San Antonio",
+    "state": "TX",
+    "region": "South"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 8,
+    "city": "San Diego",
+    "state": "CA",
+    "region": "West"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 9,
+    "city": "Dallas",
+    "state": "TX",
+    "region": "South"
+    "updateat":"2026-07-15T20:33:25.429Z"
+  },
+  {
+    "city_id": 10,
+    "city": "San Jose",
+    "state": "CA",
+    "region": "West"
+    "updateat":"2026-07-15T20:33:25.429Z"
   }
 ]
